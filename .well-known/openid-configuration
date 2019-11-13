@@ -73,8 +73,8 @@
     "https://courses.rzimacademy.org/branch_name",
     "https://courses.rzimacademy.org/country",
     "https://courses.rzimacademy.org/region",
-    "https://courses.rzimacademy.org/assessment",
-    "https://courses.rzimacademy.org/source",
+    "https://courses.rzimacademy.org/self_assessment",
+    "https://courses.rzimacademy.org/acquisition_source",
     "https://courses.rzimacademy.org/legal_name"
   ],
   "request_uri_parameter_supported": false,
