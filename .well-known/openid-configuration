@@ -69,13 +69,12 @@
     "phone_number",
     "picture",
     "sub",
-    "https://courses.rzimacademy.org/branch_name",
-    "https://courses.rzimacademy.org/branch_code",
-    "https://courses.rzimacademy.org/field_1",
-    "https://courses.rzimacademy.org/field_3",
-    "https://courses.rzimacademy.org/field_5",
-    "https://courses.rzimacademy.org/field_6",
-    "https://courses.rzimacademy.org/field_7"
+    "https://courses.rzimacademy.org/branch",
+    "https://courses.rzimacademy.org/country",
+    "https://courses.rzimacademy.org/region",
+    "https://courses.rzimacademy.org/assessment",
+    "https://courses.rzimacademy.org/source",
+    "https://courses.rzimacademy.org/legal_name"
   ],
   "request_uri_parameter_supported": false,
   "device_authorization_endpoint": "https://pavilion.auth0.com/oauth/device/code"
